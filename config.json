@@ -4,6 +4,6 @@
 	"name": "Technoblade",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register Ashiqisbest Ashiqisbest",
-	"login-cmd":"/login Ashiqisbest"
+	"register-cmd":"/register (Ashiqisbest) (Ashiqisbest)",
+	"login-cmd":"/login (Ashiqisbest)"
 }
