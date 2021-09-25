@@ -1,6 +1,9 @@
 {
-	"ip":"ferrochrome.aternos.host",
-	"port": "64058",
-	"name": "technoblade",
-	"auto-night-skip":"true"
+	"ip":"AshiqT.aternos.me",
+	"port": 64058,
+	"name": "Technoblade",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Ashiq_is_the_best) (Ashiq_is_the_best)",
+	"login-cmd":"/login Ashiqisbest"
 }
