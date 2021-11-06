@@ -2,8 +2,8 @@
 	"ip":"ult10.falix.gg",
 	"port": 26009,
 	"name": "Technoblade",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
-	"register-cmd":"/register (Ashiqisbest) (Ashiqisbest)",
-	"login-cmd":"/login (Ashiqisbest)"
+	"register-cmd":"/register 19158417EfS 19158417EfS",
+	"login-cmd":"/login 19158417EfS"
 }
