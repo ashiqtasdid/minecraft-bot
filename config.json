@@ -1,9 +1,9 @@
 {
-	"ip":"ult4.falix.gg:40502",
-	"port": 26009,
+	"ip":"ult1.falix.gg",
+	"port": 26626,
 	"name": "Technoblade",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register 19158417EfS 19158417EfS",
 	"login-cmd":"/login 19158417EfS"
 }
